@@ -1,6 +1,6 @@
 #include <project.h>
 
-t_list	*lstmap_test_fn(t_list *list)
+static t_list *lstmap_test_fn(t_list *list)
 {
 	t_list	*l2;
 

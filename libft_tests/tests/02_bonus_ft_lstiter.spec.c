@@ -1,6 +1,6 @@
 #include <project.h>
 
-void	lstiter_test(t_list *ppp)
+static void lstiter_test(t_list *ppp)
 {
 	ppp->content_size = 42;
 }
